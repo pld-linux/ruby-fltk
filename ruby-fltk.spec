@@ -1,6 +1,6 @@
 # TODO: optflags
 Summary:	Ruby FLTK GUI library
-Summary(pl.UTF-8):   Ruby FLTK - biblioteka GUI
+Summary(pl.UTF-8):	Ruby FLTK - biblioteka GUI
 Name:		ruby-fltk
 Version:	0.9.6
 Release:	0.1
@@ -26,7 +26,7 @@ użytkownika FLTK (Fast Light ToolKit).
 
 %package examples
 Summary:	Ruby FLTK examples
-Summary(pl.UTF-8):   Przykłady dla Ruby FLTK
+Summary(pl.UTF-8):	Przykłady dla Ruby FLTK
 Group:		Development/Libraries
 
 %description examples
