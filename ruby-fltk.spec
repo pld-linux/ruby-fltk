@@ -1,6 +1,6 @@
 # TODO: optflags
 Summary:	Ruby FLTK GUI library
-Summary(pl):	Ruby FLTK - biblioteka GUI
+Summary(pl.UTF-8):   Ruby FLTK - biblioteka GUI
 Name:		ruby-fltk
 Version:	0.9.6
 Release:	0.1
@@ -20,20 +20,20 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Ruby/FLTK is a Ruby binding for the FLTK (Fast Light ToolKit) GUI
 library.
 
-%description -l pl
-Ruby/FLTK to wi±zanie jêzyka Ruby do biblioteki graficznego interfejsu
-u¿ytkownika FLTK (Fast Light ToolKit).
+%description -l pl.UTF-8
+Ruby/FLTK to wiÄ…zanie jÄ™zyka Ruby do biblioteki graficznego interfejsu
+uÅ¼ytkownika FLTK (Fast Light ToolKit).
 
 %package examples
 Summary:	Ruby FLTK examples
-Summary(pl):	Przyk³ady dla Ruby FLTK
+Summary(pl.UTF-8):   PrzykÅ‚ady dla Ruby FLTK
 Group:		Development/Libraries
 
 %description examples
 Ruby FLTK examples.
 
-%description -l pl
-Przyk³ady dla Ruby FLTK.
+%description -l pl.UTF-8
+PrzykÅ‚ady dla Ruby FLTK.
 
 %prep
 %setup -q
