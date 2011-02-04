@@ -32,7 +32,7 @@ Group:		Development/Libraries
 %description examples
 Ruby FLTK examples.
 
-%description -l pl.UTF-8
+%description examples -l pl.UTF-8
 Przykłady dla Ruby FLTK.
 
 %prep
